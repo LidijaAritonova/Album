@@ -1,0 +1,23 @@
+.row-footer{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 3em;
+}
+.row-header{
+    background-color: rgb(27, 233, 54);
+    color: white;
+    padding: 5em;
+}
+body{
+    
+}
+#row1{
+   
+    background-color: rgb(211, 205, 205);
+    padding-top: 5em;
+    padding-bottom: 3em;
+}
+#row2{
+    padding-top: 5em;
+}
